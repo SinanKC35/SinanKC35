@@ -1,6 +1,6 @@
 # Hello, I am Sinan 👋
 
-> **Computer Science @ DIT UoA | Aspiring Machine Learning & AI Engineer**
+ **Computer Science @ DIT UoA | Aspiring Machine Learning & AI Engineer**
 
 ---
 
@@ -170,10 +170,7 @@ Real-World AI Applications
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/SinanKC35" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-SinanKC35-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="ΤΟ-LINKEDIN-ΣΟΥ" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -183,3 +180,4 @@ Real-World AI Applications
 ### ⭐ Thanks for visiting my profile!
 
 **Learning • Building • Improving**
+
