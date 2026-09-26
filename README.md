@@ -1,4 +1,4 @@
-<h1 align="center">Γεια σας 👋, είμαι ο Sinan</h1>
+<h1 align="center"> Hello, I am Sinan</h1>
 <h3 align="center">Computer Science Student @ DIT UoA | Aspiring Machine Learning & AI Engineer</h3>
 
 <p align="center"> 
@@ -45,7 +45,6 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sinankc35&show_icons=true&locale=en&layout=compact" alt="sinankc35 Top Languages" />
   &nbsp;&nbsp;
