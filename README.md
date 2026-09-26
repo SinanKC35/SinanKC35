@@ -1,8 +1,12 @@
-<h1 align="center">Γεια σας 👋, είμαι ο Sinan</h1>
+<h1 align="center">Hello, I am Sinan 👋</h1>
 <h3 align="center">Computer Science Student @ DIT UoA | Aspiring Machine Learning & AI Engineer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sinankc35&label=Profile%20views&color=0e75b6&style=flat" alt="sinankc35" /> 
+</p>
+
+<p align="center">
+  I am a Computer Scientist specialized in Artificial Intelligence and Machine Learning. My technical foundation is built on designing robust algorithms and intelligent systems. I focus on writing efficient code and turning complex logic into practical solutions.
 </p>
 
 ---
@@ -20,13 +24,19 @@
 
 <br>
 
-<h3 align="left">🚀 Frameworks & Libraries:</h3>
+<h3 align="left">🌐 Frameworks:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+</p>
+
+<br>
+
+<h3 align="left">🤖 Libraries & Machine Learning:</h3>
+<p align="left"> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
