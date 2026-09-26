@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Sinan 👋</h1>
-<h3 align="center">Computer Science Student @ DIT UoA | Aspiring Machine Learning & AI Engineer</h3>
+<h3 align="center">Computer Science @ DIT UoA | Aspiring Machine Learning & AI Engineer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sinankc35&label=Profile%20views&color=0e75b6&style=flat" alt="sinankc35" /> 
