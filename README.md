@@ -1,6 +1,6 @@
 # Hello, I am Sinan 👋
 
- **Computer Science @ DIT UoA | Aspiring Machine Learning & AI Engineer**
+**Computer Science @ DIT UoA | Aspiring Machine Learning & AI Engineer**
 
 ---
 
@@ -78,14 +78,8 @@ I'm currently developing my skills in **Python, Artificial Intelligence and Mach
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
@@ -139,7 +133,7 @@ I'm currently developing my skills in **Python, Artificial Intelligence and Mach
 * 🤖 Artificial Intelligence
 * 📊 Data Analysis
 * 🔢 NumPy & Pandas
-* 📈 Scikit-learn
+* 📈 Machine Learning fundamentals
 * 🔌 APIs & Backend Development
 * 🧩 Problem Solving & Algorithms
 
@@ -180,4 +174,3 @@ Real-World AI Applications
 ### ⭐ Thanks for visiting my profile!
 
 **Learning • Building • Improving**
-
