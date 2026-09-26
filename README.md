@@ -44,6 +44,7 @@ I'm building my skills in **Python, Artificial Intelligence and Machine Learning
 ---
 
 ### 🤖 Machine Learning API
+(https://github.com/SinanKC35/ml_api_project)
 
 A machine learning project that explores how trained ML models can be integrated into a practical API-based application.
 
@@ -123,7 +124,7 @@ Real-World AI Applications
 
 ## 🤝 Let's Connect
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kioutsouk/)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kioutsouk)
 
 🐙 **GitHub:** [@SinanKC35](https://github.com/SinanKC35)
 
