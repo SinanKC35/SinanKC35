@@ -161,15 +161,6 @@ Real-World AI Applications
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="ΤΟ-LINKEDIN-ΣΟΥ" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
 
 ### ⭐ Thanks for visiting my profile!
 
