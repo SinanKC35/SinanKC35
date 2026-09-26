@@ -43,24 +43,6 @@ I'm building my skills in **Python, Artificial Intelligence and Machine Learning
 
 ---
 
-## 🚀 Featured Projects
-
-### ✈️ AI Europe Travel Agent
-
-An AI-powered travel planning project focused on creating personalized European travel itineraries.
-
-**Focus areas:**
-
-* 🗺️ Route planning
-* 📍 European destinations
-* 📅 Travel duration
-* 💰 Cost-aware planning
-* 🧠 Intelligent itinerary generation
-
-**Tech:** Python · AI · Data Processing · APIs
-
----
-
 ### 🤖 Machine Learning API
 
 A machine learning project that explores how trained ML models can be integrated into a practical API-based application.
